@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Thumbnails
+*.swp
+*.swo
+*~
+
+# Office temporary files
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+
+# Editor/IDE
+.idea/
+.vscode/
+*.sublime-*
+
+# System
+Thumbs.db
+Desktop.ini
