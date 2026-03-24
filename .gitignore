@@ -1,0 +1,5 @@
+# OpenCode workspace config
+.opencode/
+
+# Agent instructions
+AGENTS.md
